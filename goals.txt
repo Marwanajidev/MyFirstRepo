@@ -1,0 +1,5 @@
+My Personal and Academic Goals for Next Year
+
+- Learn advanced Python programming.
+- Contribute to an open-source project.
+- Complete all my ALX coursework on time.
